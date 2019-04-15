@@ -1,2 +1,3 @@
 # xlab_homework1
-# antonia becker, emilia arens, michelle görlitz
+Our first class project
+antonia becker, emilia arens, michelle görlitz
