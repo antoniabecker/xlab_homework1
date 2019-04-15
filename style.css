@@ -1,5 +1,6 @@
 p {
-  color:white;
+  color: white;
+}
+html {
   background-color: red;
-  border: 1px solid black;
 }
